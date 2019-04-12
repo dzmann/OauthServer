@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.servlet-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-hk2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-media-json-binding.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-media-sse.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.apache.oltu.oauth2.authzserver-1.0.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.apache.oltu.oauth2.client-1.0.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.apache.oltu.oauth2.common-1.0.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.apache.oltu.oauth2.dynamicreg.client-1.0.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.apache.oltu.oauth2.dynamicreg.server-1.0.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.apache.oltu.oauth2.httpclient4-1.0.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.apache.oltu.oauth2.resourceserver-1.0.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hk2-api-2.5.0 (2).jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hk2-locator-2.5.0 (2).jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hk2-utils-2.5.0 (1).jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.annotation-api-1.3.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.inject-1 (1).jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.json.bind-api-1.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.ws.rs-api-2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-guava-2.25.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/json-20180813.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/log4j-over-slf4j-1.6.6.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/validation-api-2.0.0.Final.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
